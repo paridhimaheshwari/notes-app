@@ -39,17 +39,7 @@ const App = () => {
       id: 6,
       title: "test note 6",
       content: "bla bla note6",
-    },
-    {
-      id: 7,
-      title: "test note 7",
-      content: "bla bla note7",
-    },
-    {
-      id: 8,
-      title: "test note 8",
-      content: "bla bla note8",
-    },
+    }
     ]);
   return (
     <div className="app-container">
